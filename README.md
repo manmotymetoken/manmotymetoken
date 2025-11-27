@@ -1,63 +1,28 @@
 # Manmotyme Token (MAN)
 
-A clean and transparent BEP-20 token built on the BNB Smart Chain.  
-Manmotyme Token (MAN) is designed to provide a simple, standard, and fixed-supply digital asset suitable for community ecosystems, lightweight utilities, and educational blockchain environments.
+A transparent, fixed-supply BEP‑20 token on BNB Smart Chain.
 
----
+**Token Information**
+- Name: Manmotyme Token
+- Symbol: MAN
+- Decimals: 18
+- Total Supply: 9,000,000,000 MAN
+- Contract Address: `0xbb4AcAdf2Db8AaDb83ca0Ad32C96bC7C4dD923a3`
+- Network: BNB Smart Chain  
+- Verified on BscScan: 2025‑11‑22
 
-## 🔹 Token Information
-- **Name:** Manmotyme Token  
-- **Symbol:** MAN  
-- **Decimals:** 18  
-- **Total Supply:** 9,000,000,000 MAN  
-- **Standard:** BEP-20 (ERC20 Compatible)  
-- **Network:** BNB Smart Chain  
+**Links**
+- GitHub: https://github.com/manmotymetoken/manmotymetoken
+- Telegram: https://t.me/manmotymetoken
+- Medium: https://medium.com/@manmotymetoken
+- Reddit: https://reddit.com/u/manmotymetoken
+- BscScan: https://bscscan.com/token/0xbb4AcAdf2Db8AaDb83ca0Ad32C96bC7C4dD923a3
 
----
+**Contract**
+The token is a clean BEP‑20 implementation with:
+- Fixed supply
+- No mint, burn, blacklist, or pause
+- Owner may only change name & symbol
+- MIT License
 
-## 🔹 Contract Features
-- Fixed supply minted at deployment  
-- No minting  
-- No burning  
-- No taxes  
-- No blacklist / pause / owner privileges  
-- Only the token name & symbol can be updated by owner  
-- Clean, transparent, and fully verifiable code  
-
----
-
-## 🔹 Use Cases
-Manmotyme Token can be used in:
-
-- Community reward systems  
-- Educational blockchain learning  
-- Mini-games and small experimental DApps  
-- Transparent digital interactions  
-
----
-
-## 🔹 Repository Contents
-- `/contracts` – Source code of the MAN token  
-- `/docs` – Whitepaper and project documentation  
-- `/assets` – Logos and branding files  
-
----
-
-## 🔹 License
-This project is released under the **MIT License**, allowing open use and modification.
-
----
-
-## 🔹 Disclaimer
-Manmotyme Token is a community project.  
-It does not provide financial guarantees or investment promises.  
-Users participate at their own responsibility.
-
----
-
-## 🔹 Links
-- BscScan: *(Insert your verified contract link)*  
-- GitHub Repository: https://github.com/manmotymetoken/manmotymetoken  
-- Telegram: https://t.me/manmotymetoken  
-- Official Social Profiles (Facebook, X, Bitcointalk)  
-
+See `/docs/WHITEPAPER.md` for full project details.
