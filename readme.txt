@@ -1,8 +1,9 @@
 Manmotyme Token (MAN)
+****************************************************************
 A clean and transparent BEP-20 token built on the BNB Smart Chain.
 Manmotyme Token (MAN) is designed to provide a simple, standard, and fixed-supply digital asset suitable for community ecosystems, lightweight utilities, and educational blockchain environments.
 
-🔹 Token Information
+**🔹 Token Information
 Name: Manmotyme Token
 Symbol: MAN
 Decimals: 18
@@ -40,4 +41,5 @@ Users participate at their own responsibility.
 BscScan: (Insert your verified contract link)
 GitHub Repository: https://github.com/manmotymetoken/manmotymetoken
 Telegram: https://t.me/manmotymetoken
+
 Official Social Profiles (Facebook, X, Bitcointalk)
